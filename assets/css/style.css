@@ -228,3 +228,22 @@ input[type=submit] {
     height: 30px;
     width: 100px;
 }
+
+@media screen and (max-width: 980px) {
+
+    .wrapper {
+        max-width: 650px;
+        position: relative;
+        left: 0;
+      }
+  }
+
+  @media screen and (max-width: 768px) {
+      
+}
+
+@media screen and (max-width: 640px) {
+      #masthead {
+          position: static;
+      }
+}
