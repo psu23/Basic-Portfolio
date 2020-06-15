@@ -168,6 +168,19 @@ h3 {
     text-align: center;
 }
 
+.project-6 {
+    position: relative;
+    display: inline-block;
+}
+
+.project-6 .text-6 {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 75%;
+    text-align: center;
+}
+
 .wrapper {
     min-height: 100%;
     margin-bottom: -50px;
